@@ -1,0 +1,17 @@
+body.homepage {
+    background-image: url("images/pokemon_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.homepage_h1, .homepage_h2{
+    color: yellowgreen;
+    size: 2rem;
+}
+
+
+.navbar-brand .navbar_logo {
+    width: 30px;
+    height: 30px;
+}
